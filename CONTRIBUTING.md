@@ -37,3 +37,5 @@ experiment/alternative-approach – For testing out new experimental ideas.
 - Essential information about the project
 - Setup instructions
 - Directory structure
+
+7. Use the `.env.example` file to setup secret keys so that they are consistent across users.
